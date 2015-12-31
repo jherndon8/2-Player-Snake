@@ -4,13 +4,13 @@ Download
 ------------
 On OSX or Linux, open a terminal and type the following:
 ~~~sh
-$ wget https://raw.githubusercontent.com/jherndon8/2-Player-Snake/master/textsnakevs.py
+$ wget https://raw.githubusercontent.com/jherndon8/2-Player-Snake/master/snakevstext.py
 ~~~
 You should only need to do this once, and then you should be able to skip to the Run step whenever you open the terminal
 Run
 ------------
 To begin, in the same terminal type the following:
 ~~~sh
-$ python textsnakevs.py
+$ python snakevstext.py
 ~~~
 ####Enjoy!
